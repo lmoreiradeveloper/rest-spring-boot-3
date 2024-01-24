@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69ea2b56-9b09-496f-ac92-478ad2391b0f" name="Changes" comment="seção 17">
+      <change afterPath="$PROJECT_DIR$/../secao17/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2YN1SLqV6gQl4zP7BrV7hhXNWrd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Statup.executor": "Debug",
+    "JUnit.DozerConverterTest.executor": "Run",
+    "JUnit.PersonServiceTest.executor": "Run",
+    "JUnit.SwaggerIntegrationTest.executor": "Run",
+    "JUnit.SwaggerIntegrationTest.shoulDisplauSwaggerUiPage.executor": "Run",
+    "Maven.spring3 [clean,install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/Cursos de Rest API Restfull do 0 a AWS Spring Boot 3 Java e Docker/rest-spring-boot-3/secao-17-autenticacao-jwt-spring-security(falta)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Cursos de Rest API Restfull do 0 a AWS Spring Boot 3 Java e Docker\rest-spring-boot-3\secao15\src\test\java\br\com\leomoreiradev\spring3\swagger" />
+      <recent name="C:\Users\User\Desktop\Cursos de Rest API Restfull do 0 a AWS Spring Boot 3 Java e Docker\rest-spring-boot-3\secao15\src\test\resources" />
+      <recent name="C:\Users\User\Desktop\Cursos de Rest API Restfull do 0 a AWS Spring Boot 3 Java e Docker\rest-spring-boot-3\secao15\src\main\resources\db\migration" />
+      <recent name="C:\Users\User\Desktop\Cursos de Rest API Restfull do 0 a AWS Spring Boot 3 Java e Docker\rest-spring-boot-3\secao11\src\main\resources" />
+      <recent name="C:\Users\User\Desktop\Cursos de Rest API Restfull do 0 a AWS Spring Boot 3 Java e Docker\rest-spring-boot-3\secao11\src\main\resources\db\migrations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Cursos de Rest API Restfull do 0 a AWS Spring Boot 3 Java e Docker\rest-spring-boot-3\secao11\src\main\resources\db\migrations" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.leomoreiradev.spring3.services" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.leomoreiradev.spring3.controllers" />
+      <recent name="br.com.leomoreiradev.spring3.services" />
+      <recent name="br.com.leomoreiradev.spring3.dto" />
+      <recent name="br.com.leomoreiradev.spring3.repositories" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Statup">
+    <configuration name="Statup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.leomoreiradev.spring3.Statup" />
+      <module name="spring3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.leomoreiradev.spring3.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DozerConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.leomoreiradev.spring3.unitTests.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.leomoreiradev.spring3.unitTests.mapper" />
+      <option name="MAIN_CLASS_NAME" value="br.com.leomoreiradev.spring3.unitTests.mapper.DozerConverterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.leomoreiradev.spring3.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.leomoreiradev.spring3.services" />
+      <option name="MAIN_CLASS_NAME" value="br.com.leomoreiradev.spring3.services.PersonServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwaggerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.leomoreiradev.spring3.swagger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.leomoreiradev.spring3.swagger" />
+      <option name="MAIN_CLASS_NAME" value="br.com.leomoreiradev.spring3.swagger.SwaggerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwaggerIntegrationTest.shoulDisplauSwaggerUiPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.leomoreiradev.spring3.swagger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.leomoreiradev.spring3.swagger" />
+      <option name="MAIN_CLASS_NAME" value="br.com.leomoreiradev.spring3.swagger.SwaggerIntegrationTest" />
+      <option name="METHOD_NAME" value="shoulDisplauSwaggerUiPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="secao17" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="secao17" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Statup" />
+        <item itemvalue="JUnit.SwaggerIntegrationTest" />
+        <item itemvalue="JUnit.SwaggerIntegrationTest.shoulDisplauSwaggerUiPage" />
+        <item itemvalue="JUnit.PersonServiceTest" />
+        <item itemvalue="JUnit.DozerConverterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69ea2b56-9b09-496f-ac92-478ad2391b0f" name="Changes" comment="" />
+      <created>1700351225284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700351225284</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First steps in java with spring boot 3">
+      <created>1700524961431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700524961431</updated>
+    </task>
+    <task id="LOCAL-00002" summary="seção 09">
+      <option name="closed" value="true" />
+      <created>1705608187167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705608187167</updated>
+    </task>
+    <task id="LOCAL-00003" summary="seção 10">
+      <option name="closed" value="true" />
+      <created>1705694878323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705694878323</updated>
+    </task>
+    <task id="LOCAL-00004" summary="seção 11">
+      <option name="closed" value="true" />
+      <created>1705716570948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705716570948</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First steps in java with spring boot 3" />
+    <MESSAGE value="seção 06" />
+    <MESSAGE value="seção 09" />
+    <MESSAGE value="seção 10" />
+    <MESSAGE value="seção 11" />
+    <MESSAGE value="seção 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="seção 17" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/leomoreiradev/spring3/exceptions/handler/CustomizedresponseEntityExceptionHandler.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/br/com/leomoreiradev/spring3/services/PersonServiceTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/br/com/leomoreiradev/spring3/services/PersonServiceTest.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/br/com/leomoreiradev/spring3/services/PersonServiceTest.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/br/com/leomoreiradev/spring3/services/PersonServiceTest.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/br/com/leomoreiradev/spring3/services/PersonServiceTest.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/leomoreiradev/spring3/config/WebConfig.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/leomoreiradev/spring3/config/WebConfig.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
